@@ -7,7 +7,7 @@ My simple solution is this script, which basically disables the Bluetooth servic
 Running this script is really straightforward. Go to the folder in which the script was cloned, open the terminal inside the folder, and run the following commands:
 
 ```
-chmod +x script_btservice_fixer
+chmod +x script_btservice_fixer.sh
 ```
 
 ```
